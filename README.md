@@ -102,4 +102,7 @@ SimpleHillClimbing()
 <img width="492" height="313" alt="image" src="https://github.com/user-attachments/assets/9e3409f3-dd6d-4989-8b5d-31446defd481" />
 <img width="488" height="335" alt="image" src="https://github.com/user-attachments/assets/18da5e1a-06ce-4dec-89d9-32516677b4aa" />
 
+## Result:
+Thus the Simple Hill Climb Algorithm Implemented successfully.
+
 
