@@ -2,7 +2,7 @@
 
 <h3>Name: ROSHINI A</h3>
 <h3>Register Number: 212224230233</h3>
-<h3>Date: </h3>
+<h3>Date: 27.10.2026</h3>
 
 <H3>Aim:</H3>
 <p>Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration </p>
